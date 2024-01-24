@@ -1,6 +1,8 @@
 # Cloud-Resume-Challenge
 A challenge to improve your cloud skills
 
+![image](https://github.com/VenkataHemanth16320/Cloud-Resume-Challenge/assets/65711770/240edb7e-b5d3-436f-a093-34d890435035)
+
 
 The Cloud Resume Challenge - AWS
 
