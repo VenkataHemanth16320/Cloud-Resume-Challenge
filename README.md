@@ -53,3 +53,6 @@ Create a second GitHub repository for your website code. Create GitHub Actions s
 
 16. Blog post
 Finally, in the text of your resume, you should link a short blog post describing some things you learned while working on this project. Dev.to or Hashnode are great places to publish if you don’t have your own blog.
+
+
+##Successful
